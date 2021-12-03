@@ -129,7 +129,7 @@
                 "type": "Social",
                 "altText": "LinkedIn",
                 "url": "https://www.linkedin.com/company/targeted-email-marketing/",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "twitter",
                 "label": "LinkedIn"
             },
