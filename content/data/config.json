@@ -120,7 +120,7 @@
                 "label": "DV",
                 "altText": "DV",
                 "url": "https://www.targetedwebtraffic.com",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
