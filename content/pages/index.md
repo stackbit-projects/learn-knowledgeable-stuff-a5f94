@@ -66,11 +66,14 @@ sections:
     title: Need Answers?
     items:
       - question: How it this different from what we have today?
-        answer: >-
+        answer: >
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+          distruction, on remote, applying these tips or you can web traffic
+          that converts and depends on the quality of your business and website.
+          it could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation and [more opiton to see
+          in here](https://www.targetedwebtraffic.com/?p=56)!
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
